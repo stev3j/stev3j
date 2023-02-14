@@ -10,7 +10,7 @@ I'm not just a developer, I'm a dreaming developer.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stev3j&show_icons=true) 
 
-### 🏆Argorithm Silver Level
+### 🏆 Argorithm Silver Level
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sw613)](https://solved.ac/sw613/)  
 
 ### 😁 Where to find me
