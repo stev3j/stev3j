@@ -2,7 +2,7 @@
 
 I'm not just a developer, I'm a dreaming developer.
 
-### ⚒️ My stacks
+### ⚒️ My Stacks
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white"/> <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=C&logoColor=white"/> <img alt="Kotlin" src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=flat-square&logo=Kotlin&logoColor=white"/> <img alt="Jetpack Compose" src ="https://img.shields.io/badge/Jetpack Compose-4285F4.svg?&style=flat-square&logo=Jetpack Compose&logoColor=white"/> 
 
 ### 🛹 My Tools
