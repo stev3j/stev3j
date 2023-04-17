@@ -36,12 +36,12 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
   </a>
   <a href="https://www.instagram.com/stev3_j/"> 
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white/"> 
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
   </a>
   <a href="https://stev3j.tistory.com/">
-     <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/>
+     <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
   </a>
-  <a href="https://bento.me/stev3j/"
-     <img src="https://img.shields.io/badge/stev3j-00A98F?style=for-the-badge&logo=About.me&logoColor=white"/>
+  <a href="https://bento.me/stev3j/">
+     <img src="https://img.shields.io/badge/stev3j-00A98F?style=for-the-badge&logo=About.me&logoColor=white">
   </a>
 </div>
