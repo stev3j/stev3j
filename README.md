@@ -32,8 +32,16 @@
 
 <div align=center>
   <h3> 😁 Where to find me 😁 </h3>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white&link=mailto:https://github.com/stev3j"/>
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=mailto:https://www.instagram.com/stev3_j/"/>
-  <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=mailto:https://stev3j.tistory.com/"/>
-  <img src="https://img.shields.io/badge/stev3j-00A98F?style=for-the-badge&logo=About.me&logoColor=white&link=mailto:https://bento.me/stev3j/"/>
+  <a href="https://github.com/stev3j">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/stev3_j/"> 
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white/"> 
+  </a>
+  <a href="https://stev3j.tistory.com/">
+     <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/>
+  </a>
+  <a href="https://bento.me/stev3j/"
+     <img src="https://img.shields.io/badge/stev3j-00A98F?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
 </div>
