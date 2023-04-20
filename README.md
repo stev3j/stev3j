@@ -13,11 +13,13 @@
 <div align=center>
   <h3> 🛹 My Tools 🛹 </h3>
   <img src ="https://img.shields.io/badge/Android Studio-3DDC84.svg?&style=flat-square&logo=Android Studio&logoColor=white"/> 
+  <img src ="https://img.shields.io/badge/Notion-000000.svg?&style=flat-square&logo=Notion&logoColor=white"/>
   <img src ="https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat-square&logo=Figma&logoColor=white"/> 
   <img src ="https://img.shields.io/badge/GitHub-181717.svg?&style=flat-square&logo=GitHub&logoColor=white"/>
-  <img src ="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=flat-square&logo=Visual Studio Code&logoColor=white"/> 
-  <img src ="https://img.shields.io/badge/Google Colab-F9AB00.svg?&style=flat-square&logo=Google Colab&logoColor=white"/> <br>
+  <img src ="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=flat-square&logo=Visual Studio Code&logoColor=white"/> <br>
+  <img src ="https://img.shields.io/badge/Google Colab-F9AB00.svg?&style=flat-square&logo=Google Colab&logoColor=white"/> 
   <img src ="https://img.shields.io/badge/GitKraken-179287.svg?&style=flat-square&logo=GitKraken&logoColor=white"/>
+  <img src ="https://img.shields.io/badge/Intellij IDEA-000000.svg?&style=flat-square&logo=Intellij IDEA&logoColor=white"/>
 </div>
 
 <div align=center>
